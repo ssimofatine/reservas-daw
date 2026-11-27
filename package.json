@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node src/reservas.js",
+    "test": "node src/reservas.js"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.5"
+  }
+}
