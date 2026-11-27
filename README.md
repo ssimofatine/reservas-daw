@@ -7,8 +7,10 @@ Node.js 24 y npm.
 
 ## Instalación
 1. Clona este repositorio y entra en su carpeta.
+    `git clone https://github.com/ssimofatine/reservas-daw.git`
+    `cd reservas-daw`
 2. Ejecuta `npm ci`.
-3. Crea `.env` según `.env.example`, si se usa.
+3. Crea `.env` según `.env.example`, si se usa. Ejecuta `cp .env.example .env`.
 
 ### Variables de entorno
 - `PORT`: Puerto donde se ejecuta la aplicación (en `.env.example` tiene el valor `3000`). No se incluyen credenciales.
